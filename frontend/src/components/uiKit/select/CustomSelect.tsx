@@ -140,7 +140,6 @@ export default function CustomSelect({
       onChange={onChangeHandler}
       onBlur={onBlurHandler}
       disabled={disabled}
-      placeholder={placeholder}
       defaultValue={defaultValue}
       value={value} // This is the key part for default values to be set
       options={list}
@@ -151,6 +150,7 @@ export default function CustomSelect({
         <TextField
           {...params}
           size="small"
+          placeholder={placeholder}
           label={
             <Typography
               variant="body2"
