@@ -1,0 +1,4 @@
+PORT = 8000
+DATA_BASE = perisanLocals
+JWT_SECRET_KEY = mhsajdbjfhsdfhb
+https = false

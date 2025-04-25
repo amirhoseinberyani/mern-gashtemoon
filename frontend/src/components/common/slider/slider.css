@@ -1,0 +1,36 @@
+.slick-dots {
+  bottom: -50px;
+}
+
+.slick-slider {
+  width: 100%;
+}
+
+.slick-dots li button:before {
+  font-family: 'slick';
+  font-size: 6px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  content: '•';
+  text-align: center;
+  opacity: 0.25;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(33, 123, 191);
+  border-radius: 34px;
+  margin-top: 5px;
+  color: transparent;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 0.75;
+  color: transparent;
+}
+
+.slick-arrow {
+  display: none !important;
+}

@@ -1,0 +1,36 @@
+.pickavatar-root {
+  display: flex;
+  flex-direction: column !important;
+  justify-content: space-between;
+  background-color: white;
+  margin: auto;
+  align-items: center;
+  height: 500px;
+  border-radius: 10px;
+  margin-top: 5%;
+  padding: 30px;
+}
+
+.pickavatar-default-avatars {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: space-around !important;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pickavatar-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+.pickavatar-upload-image-btn {
+  width: 185px;
+}
+
+.pickavatar-accept-btn {
+  width: 185px;
+}

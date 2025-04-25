@@ -1,0 +1,14 @@
+.drawer-paper-rtl {
+  right: 0;
+  left: 50% !important;
+}
+
+.drawer-paper-ltr {
+  left: 0;
+  right: 40% !important;
+}
+
+.menu-button {
+  width: 40px !important;
+  height: 40px !important;
+}

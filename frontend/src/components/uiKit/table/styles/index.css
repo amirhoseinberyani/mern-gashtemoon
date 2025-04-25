@@ -1,0 +1,135 @@
+.paginationDiv {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+  margin-top: 25;
+}
+
+.loadingDiv {
+  height: 80;
+}
+
+.sordDiv {
+  margin-bottom: 25;
+}
+
+.titlteGrid {
+  display: 'flex';
+  padding: 10;
+  flex-direction: 'row';
+  justify-content: 'space-between';
+  border-bottom: '1px solid #212121';
+}
+
+.tabelHeaderField {
+  padding: 7;
+  cursor: 'pointer';
+  display: 'flex';
+  flex-direction: 'row';
+  justify-content: 'center';
+  align-items: 'center';
+  min-width: 60;
+}
+
+.tableCell {
+  padding: 2;
+}
+
+.SearchDiv {
+  margin-bottom: 15;
+  padding: 5;
+  width: '-webkit-fill-available';
+}
+
+.formControl {
+  width: 250;
+}
+
+.sortIcon {
+  margin-left: 10;
+}
+
+.TabelHeader {
+  display: 'flex';
+  cursor: 'pointer';
+}
+
+.tableCellRow {
+  padding-top: 30;
+}
+
+.searchGrid {
+  padding: 5;
+
+  box-sizing: 'border-box';
+}
+
+.popoverGrid {
+  padding: 15;
+}
+
+.popoverGridBtns {
+  margin-top: 10;
+}
+
+.tableBody {
+  background-color: 'white';
+}
+
+.tableRow {
+  height: 40;
+  cursor: 'pointer';
+}
+
+.tableRow:hover {
+  background-color: 'lightGray';
+}
+
+.tableRow > td {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.infoRoot {
+  min-height: 500;
+  display: 'flex';
+  flex-wrap: 'wrap';
+}
+
+.infoItem {
+  display: 'flex';
+  flex-wrap: 'wrap';
+  justify-content: 'center';
+  align-items: 'center';
+  width: '40%';
+  margin: 10;
+  padding: 5;
+}
+
+.item {
+  padding: 10;
+  margin: 10;
+  background-color: 'white';
+}
+
+.labelInfo {
+  color: 'gray';
+}
+
+.valueInfo {
+  color: 'blue';
+}
+
+.modal {
+  width: '70%';
+}
+
+.actionCell {
+  display: 'flex';
+  flex-direction: 'row';
+  justify-content: 'center';
+}
+
+.noLoadingDiv {
+  height: 3;
+}

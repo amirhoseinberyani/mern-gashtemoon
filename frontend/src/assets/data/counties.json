@@ -1,0 +1,572 @@
+[
+  {
+    "_id": {
+      "$oid": "641c4cf25df971b4088c0514"
+    },
+    "name_en": "tehran",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542488e"
+    },
+    "url": "tehran",
+    "name_fa": "تهران",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-23T12:58:26.479Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-23T12:58:26.479Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64200047ac9380738c2f86d5"
+    },
+    "name_en": "Khodabandeh",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424890"
+    },
+    "url": "khodabandeh",
+    "name_fa": "خدابنده",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T08:20:23.986Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T08:20:23.986Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "642003a2ac9380738c2f9007"
+    },
+    "name_en": "Marvdasht",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424878"
+    },
+    "url": "marvdasht",
+    "name_fa": "مرودشت",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T08:34:42.073Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T08:34:42.073Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64200603ac9380738c2fa539"
+    },
+    "name_en": "Bandar Abbas",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542487c"
+    },
+    "url": "bandar-abbas",
+    "name_fa": "بندر عباس",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T08:44:51.896Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T08:44:51.896Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64200838ac9380738c2faa91"
+    },
+    "name_en": "Qeshm",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542487c"
+    },
+    "url": "qeshm",
+    "name_fa": "قشم",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T08:54:16.166Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T08:54:16.166Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64201019ac9380738c2fb32f"
+    },
+    "name_en": "Soltaniyeh",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424890"
+    },
+    "url": "soltaniyeh",
+    "name_fa": "سلطانیه",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T09:27:53.109Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T09:27:53.109Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64201392ac9380738c2fbd6d"
+    },
+    "name_en": "Pasargad",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424878"
+    },
+    "url": "pasargad",
+    "name_fa": "پاسارگاد",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T09:42:42.404Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T09:42:42.404Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64201cbdac9380738c2fc549"
+    },
+    "name_en": "Shushtar",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424884"
+    },
+    "url": "shushtar",
+    "name_fa": "شوشتر",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T10:21:49.068Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T10:21:49.068Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "642022bfac9380738c2fcda1"
+    },
+    "name_en": "Kerman",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542487f"
+    },
+    "url": "kerman",
+    "name_fa": "کرمان",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T10:47:27.054Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T10:47:27.054Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "642023abac9380738c2fd65c"
+    },
+    "name_en": "Sari",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424889"
+    },
+    "url": "sari",
+    "name_fa": "ساری",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T10:51:23.956Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T10:51:23.956Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202536ac9380738c2fdd83"
+    },
+    "name_en": "Kaleybar",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424874"
+    },
+    "url": "kaleybar",
+    "name_fa": "کلیبر",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T10:57:58.532Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T10:57:58.532Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202694ac9380738c2feaaf"
+    },
+    "name_en": "Shush",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424884"
+    },
+    "url": "shush",
+    "name_fa": "شوش",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:03:48.496Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:03:48.496Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202826ac9380738c2ff43e"
+    },
+    "name_en": "Shiraz",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424878"
+    },
+    "url": "shiraz",
+    "name_fa": "شیراز",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:10:30.442Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:10:30.442Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202a02ac9380738c2fffa9"
+    },
+    "name_en": "meshginshahr",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424873"
+    },
+    "url": "Meshginshahr",
+    "name_fa": "مشگین‌شهر",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:18:26.771Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:18:26.771Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202c6dac9380738c301340"
+    },
+    "name_en": "Esfahan",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542487e"
+    },
+    "url": "esfahan",
+    "name_fa": "اصفهان",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:28:45.193Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:28:45.193Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64202dffac9380738c30250a"
+    },
+    "name_en": "Takab",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424875"
+    },
+    "url": "takab",
+    "name_fa": "تکاب",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:35:27.953Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:35:27.953Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64203049ac9380738c3033e7"
+    },
+    "name_en": "Golestan",
+    "provinceId": {
+      "$oid": "6223395b3463a51231365e35"
+    },
+    "url": "golestan",
+    "name_fa": "گلستان",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T11:45:13.109Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T11:45:13.109Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64203b98ac9380738c303fc6"
+    },
+    "name_en": "Khorramabad",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424887"
+    },
+    "url": "khorramabad",
+    "name_fa": "خرم‌آباد",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T12:33:28.168Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T12:33:28.168Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "642045ceac9380738c305618"
+    },
+    "name_en": "Qom",
+    "provinceId": {
+      "$oid": "621e2701d031c8d61542488b"
+    },
+    "url": "qom",
+    "name_fa": "قم",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T13:17:02.642Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T13:17:02.642Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6420466dac9380738c30626a"
+    },
+    "name_en": "Mashhad",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424882"
+    },
+    "url": "mashhad",
+    "name_fa": "مشهد",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T13:19:41.163Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T13:19:41.163Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "642047c0ac9380738c30734a"
+    },
+    "name_en": "Tabriz",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424874"
+    },
+    "url": "tabriz",
+    "name_fa": "تبریز",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T13:25:20.487Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T13:25:20.487Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64204a3bac9380738c308a38"
+    },
+    "name_en": "Chaldoran",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424875"
+    },
+    "url": "chaldoran",
+    "name_fa": "چالدران",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-26T13:35:55.539Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-26T13:35:55.539Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64212e216ddf35487d37d8dd"
+    },
+    "name_en": "Kermanshah",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424880"
+    },
+    "url": "kermanshah",
+    "name_fa": "کرمانشاه",
+    "points": "",
+    "createdAt": {
+      "$date": "2023-03-27T05:48:17.837Z"
+    },
+    "updatedAt": {
+      "$date": "2023-03-27T05:48:17.837Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e047bd648d7210ca382305"
+    },
+    "name_en": "karaj",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "karaj",
+    "name_fa": "کرج",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T09:00:45.193Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T09:00:45.193Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e04dd0648d7210ca382cd0"
+    },
+    "name_en": "fardis",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "fardis",
+    "name_fa": "فردیس",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T09:26:40.933Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T09:26:40.933Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e050f8648d7210ca38349f"
+    },
+    "name_en": "savojbolagh",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "savojbolagh",
+    "name_fa": "ساوجبلاغ",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T09:40:08.618Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T09:40:08.618Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e05b2d648d7210ca383889"
+    },
+    "name_en": "nazarabad",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "nazarabad",
+    "name_fa": "نظرآباد",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T10:23:41.308Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T10:23:41.308Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e05c04648d7210ca383c73"
+    },
+    "name_en": "chaharbagh",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "chaharbagh",
+    "name_fa": "چهارباغ",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T10:27:16.612Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T10:27:16.612Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e05c41648d7210ca38405c"
+    },
+    "name_en": "eshtehard",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "eshtehard",
+    "name_fa": "اشتهارد",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T10:28:17.130Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T10:28:17.130Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e05c7b648d7210ca384446"
+    },
+    "name_en": "taleqan",
+    "provinceId": {
+      "$oid": "621e2701d031c8d615424872"
+    },
+    "url": "taleqan",
+    "name_fa": "طالقان",
+    "points": "",
+    "createdAt": {
+      "$date": "2024-02-29T10:29:15.310Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-29T10:29:15.310Z"
+    },
+    "__v": 0
+  }
+]

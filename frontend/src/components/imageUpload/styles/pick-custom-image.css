@@ -1,0 +1,32 @@
+.pick-custom-image-input {
+  display: none;
+}
+
+.pick-custom-image-modal-content {
+  background-color: white;
+  margin-top: 31%;
+  align-items: center;
+  border-radius: 10px;
+  padding: 5px;
+  max-height: 700px;
+  overflow-y: scroll;
+}
+
+.pick-custom-image-modal-footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20 !important;
+}
+
+.pick-custom-image-accept-btn {
+  width: 185px;
+  text-transform: none !important;
+}
+
+.button-cropper {
+  width: 150px;
+  margin: '0 10px 0 0' !important;
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.5" height="25.5" viewBox="0 0 25.5 25.5">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#3c4859;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__Group_5635" data-name="Group 5635" transform="translate(-690.25 -88.25)">
+        <path id="prefix__Rectangle_3223" d="M0 0H24V24H0z" data-name="Rectangle 3223" transform="translate(691 89)" style="opacity:0;fill:none;stroke:#3c4859;stroke-width:1.5px"/>
+        <g id="prefix__Group_4526" data-name="Group 4526" transform="translate(203.177 -580.206)">
+            <rect id="prefix__Rectangle_3249" width="14.916" height="14.916" class="prefix__cls-2" data-name="Rectangle 3249" rx="2.004" transform="translate(492.365 674.29)"/>
+            <path id="prefix__Line_642" d="M0 2.131L0 0" class="prefix__cls-2" data-name="Line 642" transform="translate(503.02 673.206)"/>
+            <path id="prefix__Line_643" d="M0 2.131L0 0" class="prefix__cls-2" data-name="Line 643" transform="translate(496.207 673.206)"/>
+            <path id="prefix__Line_644" d="M0 0L14.916 0" class="prefix__cls-2" data-name="Line 644" transform="translate(492.365 678.502)"/>
+        </g>
+        <g id="prefix__Group_4527" data-name="Group 4527" transform="translate(203.177 -580.206)">
+            <path id="prefix__Line_645" d="M4.185 0L0 4.185" class="prefix__cls-2" data-name="Line 645" transform="translate(498.639 681.868)"/>
+            <path id="prefix__Line_646" d="M1.815 1.815L0 0" class="prefix__cls-2" data-name="Line 646" transform="translate(496.824 684.238)"/>
+        </g>
+    </g>
+</svg>

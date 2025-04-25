@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "63d57717a6fd26f2e816ef77"
+    },
+    "title": "طبیعی",
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2023-01-28T19:27:19.898Z"
+    },
+    "updatedAt": {
+      "$date": "2023-01-28T19:27:19.898Z"
+    },
+    "__v": 0,
+    "parentId": null
+  },
+  {
+    "_id": {
+      "$oid": "63d5779aa6fd26f2e816f172"
+    },
+    "title": "فرهنگی",
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2023-01-28T19:29:30.639Z"
+    },
+    "updatedAt": {
+      "$date": "2023-01-28T19:29:30.639Z"
+    },
+    "__v": 0,
+    "parentId": null
+  },
+  {
+    "_id": {
+      "$oid": "658438b21e78e8e618bd06e1"
+    },
+    "title": "سایر",
+    "parentId": null,
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2023-12-21T13:08:02.651Z"
+    },
+    "updatedAt": {
+      "$date": "2023-12-21T13:08:02.651Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "659998d3293c2e380dcd8265"
+    },
+    "title": "کوهستان",
+    "parentId": {
+      "$oid": "63d57717a6fd26f2e816ef77"
+    },
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2024-01-06T18:15:47.528Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-06T18:15:47.528Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6599995a293c2e380dcd846d"
+    },
+    "title": "موزه",
+    "parentId": {
+      "$oid": "63d5779aa6fd26f2e816f172"
+    },
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2024-01-06T18:18:02.385Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-06T18:18:02.385Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65999962293c2e380dcd8475"
+    },
+    "title": "جشنواره",
+    "parentId": {
+      "$oid": "658438b21e78e8e618bd06e1"
+    },
+    "lang": "fa",
+    "createdAt": {
+      "$date": "2024-01-06T18:18:10.672Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-06T18:18:10.672Z"
+    },
+    "__v": 0
+  }
+]

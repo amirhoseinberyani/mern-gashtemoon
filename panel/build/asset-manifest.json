@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.8169f7c6.js",
+    "static/media/languages.png": "/static/media/languages.119647905adbf065c39b.png",
+    "static/media/logo.png": "/static/media/logo.869b9665c52024222595.png",
+    "static/media/Group4546.png": "/static/media/Group4546.543698dc05206053eecc.png",
+    "static/media/youtube.svg": "/static/media/youtube.89374d2f4a6f06388f9f3534d1e33505.svg",
+    "static/media/upload.png": "/static/media/upload.928c9b10a4b149fd5c1e.png",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.6d5b1f45d8731f4312c2e8a5085be9b2.svg",
+    "static/media/instagram.svg": "/static/media/instagram.570635fd1056058f7fe66d5a47e19ff3.svg",
+    "static/media/telegram.svg": "/static/media/telegram.6ef2efdf9f78a6700588914c80e95e6b.svg",
+    "index.html": "/index.html",
+    "static/media/Group5599.svg": "/static/media/Group5599.f72de0840b2fc644ff21fb8d4c790993.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.8169f7c6.js.map": "/static/js/main.8169f7c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8169f7c6.js"
+  ]
+}

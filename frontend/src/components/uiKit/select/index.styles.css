@@ -1,0 +1,55 @@
+.mySelectRoot {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.label {
+  /* color: theme.palette.text.primary, */
+}
+
+.mySelect {
+  /* backgroundColor: theme.palette.background.default, */
+  padding: 0;
+  border-radius: 36px;
+  margin-top: 5px;
+  box-sizing: 'border-box';
+  font-size: 14px;
+}
+
+.mySelect :focus {
+  outline: 'none';
+  border: 'none';
+}
+
+.mySelect ::placeholder {
+  font-size: 10px;
+}
+
+.mySelectInputRoot {
+  border-radius: 30px;
+}
+
+.textFieldRoot {
+  border: 'none' !important;
+  font-size: 12px;
+}
+
+.mySelectInputFocused {
+  border: 'none';
+  outline: 'none';
+  font-size: 12px !important;
+}
+
+.mySelectInput {
+  padding: 0;
+}
+
+.warningSign {
+  color: 'red';
+}
+
+.MuiAutocomplete-tag {
+  border-radius: 10px !important;
+  padding: 12px !important;
+  font-family: IRANSANS !important;
+}

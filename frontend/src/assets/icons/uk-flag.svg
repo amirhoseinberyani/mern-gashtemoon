@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 256" style="enable-background:new 0 0 512 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000045578473464632378200000009899133521123043758_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#CF142B;}
+	.st3{fill:#00247D;}
+	.st4{display:none;}
+	.st5{display:inline;fill:url(#SVGID_00000142872723705521884570000015014383915255747756_);}
+	.st6{display:inline;opacity:0.1;}
+	.st7{fill:#231F20;}
+</style>
+<g id="Countryflags.com">
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M158,0h196c16.6,0,30,13.4,30,30v196c0,16.6-13.4,30-30,30H158c-16.6,0-30-13.4-30-30V30
+				C128,13.4,141.4,0,158,0z"/>
+		</defs>
+		<clipPath id="SVGID_00000121990400569800510270000002459110059922866111_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000121990400569800510270000002459110059922866111_);">
+			<rect id="_14" class="st1" width="511.7" height="256"/>
+			<polygon id="_13" class="st2" points="230.3,153.5 230.3,256 281.5,256 281.5,153.5 511.7,153.5 511.7,102.3 281.5,102.3 
+				281.5,0 230.3,0 230.3,102.3 0,102.3 0,153.5 			"/>
+			<polygon id="_12" class="st3" points="298.5,82.9 298.5,0 464.2,0 			"/>
+			<polygon id="_11" class="st3" points="298.5,173.1 298.5,256 464.2,256 			"/>
+			<polygon id="_10" class="st3" points="213.2,173.1 213.2,256 47.5,256 			"/>
+			<polygon id="_9" class="st3" points="213.2,82.9 213.2,0 47.5,0 			"/>
+			<polygon id="_8" class="st3" points="0,23.8 0,85.3 123,85.3 			"/>
+			<polygon id="_6" class="st3" points="511.7,232.2 511.7,170.6 388.7,170.6 			"/>
+			<polygon id="_5" class="st3" points="0,232.2 0,170.6 123,170.6 			"/>
+			<polyline id="_4" class="st2" points="511.7,0 483.3,0 313,85.3 341.4,85.3 512,0 			"/>
+			<polyline id="_3" class="st2" points="198.7,170.6 170.3,170.6 0,256 28.4,256 199,170.6 			"/>
+			<polygon id="_2" class="st2" points="142.1,85.4 170.5,85.4 0,0 0,14.3 			"/>
+			<polygon id="_1" class="st2" points="369.5,170.6 341.1,170.6 511.6,256 511.6,241.7 			"/>
+		</g>
+	</g>
+</g>
+<g id="Light" class="st4">
+	
+		<linearGradient id="SVGID_00000066493265009434625010000011357495535262849445_" gradientUnits="userSpaceOnUse" x1="147.8934" y1="19.8934" x2="364.1066" y2="236.1066" gradientTransform="matrix(1 0 0 -1 0 256)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+		<stop  offset="0.37" style="stop-color:#FFFFFF;stop-opacity:0.11"/>
+		<stop  offset="0.59" style="stop-color:#FFFFFF;stop-opacity:0.14"/>
+		<stop  offset="0.77" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop  offset="0.93" style="stop-color:#FFFFFF;stop-opacity:0.28"/>
+		<stop  offset="0.97" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+	</linearGradient>
+	<path style="display:inline;fill:url(#SVGID_00000066493265009434625010000011357495535262849445_);" d="M158.5,15.5h195
+		c8.3,0,15,6.7,15,15v195c0,8.3-6.7,15-15,15h-195c-8.3,0-15-6.7-15-15v-195C143.5,22.2,150.2,15.5,158.5,15.5z"/>
+</g>
+<g id="Edge" class="st4">
+	<g class="st6">
+		<path class="st7" d="M354,15.5c8,0,14.5,6.5,14.5,14.5v196c0,8-6.5,14.5-14.5,14.5H158c-8,0-14.5-6.5-14.5-14.5V30
+			c0-8,6.5-14.5,14.5-14.5H354 M354,0H158c-16.5,0-30,13.5-30,30v196c0,16.5,13.5,30,30,30h196c16.5,0,30-13.5,30-30V30
+			C384,13.5,370.5,0,354,0z"/>
+	</g>
+</g>
+</svg>

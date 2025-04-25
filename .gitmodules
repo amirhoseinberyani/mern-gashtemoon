@@ -1,0 +1,9 @@
+[submodule "gashtemoon-panel"]
+	path = gashtemoon-panel
+	url = https://github.com/MohammadKoolivand/gashtemoon-panel.git
+[submodule "gashtemoon-back"]
+	path = gashtemoon-back
+	url = https://github.com/MohammadKoolivand/gashtemoon-back.git
+[submodule "gashtemoon-front"]
+	path = gashtemoon-front
+	url = https://github.com/MohammadKoolivand/gashtemoon-front.git

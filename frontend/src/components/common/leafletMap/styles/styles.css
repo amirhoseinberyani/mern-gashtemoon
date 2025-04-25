@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  width: 500px !important;
+  height: 500px !important;
+}
+
+.mapboxgl-canvas {
+  position: relative !important;
+  width: 500px !important;
+  border-radius: 20px !important;
+  height: 500px !important;
+}
+
+.mapir-main {
+  width: 500px !important;
+  height: 500px !important;
+}

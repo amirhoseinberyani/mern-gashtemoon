@@ -1,0 +1,8 @@
+DISABLE_ESLINT_PLUGIN=true
+GENERATE_SOURCEMAP=false
+# REACT_APP_BASE_API=http://192.168.80.210/
+# HTTPS=true
+HOST=gashtemoon.it
+PORT=443
+SSL_CRT_FILE=./gashtemoon.crt
+SSL_KEY_FILE=./gashtemoon.key

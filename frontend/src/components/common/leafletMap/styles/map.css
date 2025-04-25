@@ -1,0 +1,14 @@
+.leaflet-routing-alt {
+  display: none;
+}
+
+.DatePicker__calendarContainer {
+  z-index: 10;
+}
+
+.leaflet-marker-icon {
+  width: '20px !important';
+  height: '30px !important';
+  border: none;
+  background-color: transparent;
+}

@@ -1,0 +1,45 @@
+.header-root {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin: auto;
+  height: calc(100vh - 70px);
+}
+
+.header-img {
+  width: 96%;
+  height: 90%;
+  margin-top: -90px;
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 900px) {
+  .header-img {
+    width: 96%;
+    margin-top: -40px;
+  }
+}
+
+.post-header-root {
+  background-image: url('assets/images/post-banner.jpeg');
+  background-position: 50%;
+  background-size: cover;
+}
+
+@media screen and (min-width: 800px) {
+  .post-header-root {
+    animation: zoomInBg 200s ease forwards;
+  }
+}
+
+@keyframes zoomInBg {
+  0% {
+    background-size: 100%;
+  }
+  50% {
+    background-size: 250%;
+  }
+  100% {
+    background-size: 250%;
+  }
+}
